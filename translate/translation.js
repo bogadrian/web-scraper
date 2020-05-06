@@ -20,8 +20,8 @@ exports.grabFilesW = () => {
           parent: `projects/${projectId}/locations/${location}`,
           contents: [text],
           mimeType: 'text/plain', // mime types: text/plain, text/html
-          sourceLanguageCode: 'en',
-          targetLanguageCode: 'it'
+          sourceLanguageCode: '__',
+          targetLanguageCode: '__'
         };
 
         try {
