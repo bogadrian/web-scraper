@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
     "request": "^2.88.2",
-    "sanitize-html": "^1.23.0",
+    "sanitize-html": "^2.3.2",
     "wpapi": "^1.2.1"
   }
 }
